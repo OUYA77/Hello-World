@@ -1,3 +1,5 @@
-
+#!/bin/bash
 ```bash
-ls -asl;cat flag;pwd
+ls -asl
+cat flag
+pwd
