@@ -1,5 +1,1 @@
-#!/bin/bash
-```bash
-ls -asl
-cat flag
-pwd
+[a.php]a.php
